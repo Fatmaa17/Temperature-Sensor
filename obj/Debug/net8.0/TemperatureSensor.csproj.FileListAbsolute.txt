@@ -1,0 +1,15 @@
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\bin\Debug\net8.0\TemperatureSensor.exe
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\bin\Debug\net8.0\TemperatureSensor.deps.json
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\bin\Debug\net8.0\TemperatureSensor.runtimeconfig.json
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\bin\Debug\net8.0\TemperatureSensor.dll
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\bin\Debug\net8.0\TemperatureSensor.pdb
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.AssemblyInfoInputs.cache
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.AssemblyInfo.cs
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.csproj.CoreCompileInputs.cache
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.sourcelink.json
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.dll
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\obj\Debug\net8.0\refint\TemperatureSensor.dll
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.pdb
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\obj\Debug\net8.0\TemperatureSensor.genruntimeconfig.cache
+C:\Users\fatma\Desktop\C#\Projects\TemperatureSensor\obj\Debug\net8.0\ref\TemperatureSensor.dll
